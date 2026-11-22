@@ -598,15 +598,15 @@ height: auto;
 }
 
 .byggSektion1 {
-    background-image: url('../images/stock/Gen/Poolfancy.jpg');
+    background-image: url('/images/stock/Gen/Poolfancy.jpg');
 }
 
 .byggSektion2 {
-    background-image: url('../images/stock/Gen/Spafancy.jpg');
+    background-image: url('/images/stock/Gen/Spafancy.jpg');
 }
 
 .byggSektion3 {
-    background-image: url('../images/stock/Gen/Sketchtofinished.png');
+    background-image: url('/images/stock/Gen/Sketchtofinished.png');
 }
 
 .Byggcard {
